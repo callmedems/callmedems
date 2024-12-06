@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi! Call me Dems!👋
+Welcome to my GitHub Profile.
+<!-- stats for Github prof -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmedems&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **callmedems/callmedems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
